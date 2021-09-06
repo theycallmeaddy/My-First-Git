@@ -6,7 +6,7 @@ int main ()
     int a,b;
     a=10;
     b=5;
-    cout<<a-b;
+    cout<<a-b-1;
     return 0;
 
 }
